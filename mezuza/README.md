@@ -12,6 +12,7 @@ inferiores y la letra **Shin (ש) grabada (metida)** — o en relieve, con un pa
 | `python/mezuza.py` | Generador de STL con la misma geometría y parámetros |
 | `python/render.py` | Render de la vista previa |
 | `stl/` | STL listos: `mezuza_caja.stl` (Shin grabada), `mezuza_caja_relieve.stl`, `mezuza_tapa.stl` |
+| `stl/mezuza_placa.3mf` | **Placa lista para el laminador**: caja + tapa ya orientadas y colocadas sobre la cama |
 
 ## Usar en Onshape
 
